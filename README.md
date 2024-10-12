@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Rajasekhar J
-- 👀 I’m interested in involving technically, especially in DATA area
-- 🌱 I’m currently working in Google Cloud data engineering
-- 💞️ I’m looking to collaborate on Big data with GCP/BigQuery
-- 📫 How to reach me sekhar.0146@gmail.com 
+👋 Hi, I’m Rajasekhar J
+👀 I’m passionate about technology, especially in the data domain
+🌱 Currently working as a Senior Data Engineer with a tech stack including Google Cloud (Cloud Storage, Cloud Functions, BigQuery, Pub/Sub), Airflow, Terraform, Plantweb Optics, Benchling and Mainframe
+💞️ Looking to collaborate with GCP Data engineering projects
+🌍 Very much interested in relocating globally if you sponsor a VISA
+📫 Reach me at sekhar.0146@gmail.com
 
 <!---
 sekhar0146/sekhar0146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
