@@ -2,7 +2,7 @@
 
 👀 I’m passionate about technology, especially in the data domain
 
-🌱 Currently working as a Senior Data Engineer with a tech stack including Google Cloud (Cloud Storage, Cloud Functions, BigQuery, Pub/Sub), Airflow, Terraform, Plantweb Optics, Benchling and Mainframe
+🌱 Currently working as a Senior Data Engineer with a tech stack including Google Cloud (Cloud Storage, Cloud Functions, BigQuery, Pub/Sub), Python, Airflow, Terraform, Plantweb Optics, Benchling and Mainframe
 
 💞️ Looking to collaborate with GCP Data engineering projects
 
