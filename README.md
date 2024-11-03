@@ -1,4 +1,4 @@
-👋 Hi, I’m Rajasekhar J
+👋 Hi, I’m Rajasekhar
 
 👀 I’m passionate about technology, especially in the data domain
 
