@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Rajasekhar
 
-🎯 **Senior Data Engineer** with over **17 years of experience** delivering data-driven solutions across **Banking, Pharma, Automotive, and Retail** sectors.
+🎯 Experienced IT Professional with over 17 years across diverse roles, including Mainframe development, Technical Leadership, Onsite coordination, and more recently, specializing in Data Engineering, Cloud platforms, and Analytics transformation.
 
 I'm passionate about **cloud migration**, **data modernization**, and **analytics transformation**. I design and implement scalable, end-to-end data platforms that enable better decision-making and business insights.
 
