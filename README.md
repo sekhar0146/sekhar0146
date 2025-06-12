@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Rajasekhar
 
-🎯 Experienced IT Professional with over 17 years across diverse roles, including Mainframe development, Technical Leadership, Onsite coordination, and more recently, specializing in Data Engineering, Cloud platforms, and Analytics transformation.
+🎯 **Experienced IT Professional with over 17 years**, currently specializing in **Data Engineering, Cloud Platforms**, and Analytics Transformation.
+Earlier to data engineering roles, I worked extensively in **Mainframe Development, Technical Leadership, and Onsite Coordination roles**.
 
 I'm passionate about **cloud migration**, **data modernization**, and **analytics transformation**. I design and implement scalable, end-to-end data platforms that enable better decision-making and business insights.
 
