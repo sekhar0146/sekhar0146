@@ -4,6 +4,8 @@
 
 I'm passionate about **cloud migration**, **data modernization**, and **analytics transformation**. I design and implement scalable, end-to-end data platforms that enable better decision-making and business insights.
 
+🔍 **My core strength lies in exploring new technologies and quickly implementing practical, scalable solutions.**
+
 ---
 
 ### 💼 Current Role  
