@@ -1,16 +1,16 @@
 ## 👋 Hi, I’m Rajasekhar
 
-🎯 **Experienced IT Professional with over 17 years**, currently specializing in **Data Engineering, Cloud Platforms**, and Analytics Transformation.
+🎯 **Experienced IT Professional with over 17 years**, currently specializing in **Data & AI Engineering, Cloud Platforms**, and Analytics Transformation.
 Earlier to data engineering roles, I worked extensively in **Mainframe Development, Technical Leadership, and Onsite Coordination roles**.
 
-I'm passionate about **cloud migration**, **data modernization**, and **analytics transformation**. I design and implement scalable, end-to-end data platforms that enable better decision-making and business insights.
+I'm passionate about **cloud migration**, **data modernization**, and **analytics transformation**. 
 
 🔍 **My core strength lies in exploring new technologies and quickly implementing practical, scalable solutions.**
 
 ---
 
 ### 💼 Current Role  
-**Senior Data Engineer** at **LLOYDS Technology Centre** (a subsidiary of Lloyds Banking Group)
+** Data/AI Engineer** at **LLOYDS Technology Centre** (Tech Centre of Lloyds Banking Group)
 
 ---
 
