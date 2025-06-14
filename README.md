@@ -10,7 +10,7 @@ I'm passionate about **cloud migration**, **data modernization**, and **analytic
 ---
 
 ### 💼 Current Role  
-** Data/AI Engineer** at **LLOYDS Technology Centre** (Tech Centre of Lloyds Banking Group)
+**Data/AI Engineer** at **LLOYDS Technology Centre** (Tech Centre of Lloyds Banking Group)
 
 ---
 
