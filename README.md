@@ -21,7 +21,7 @@ I'm passionate about **cloud migration**, **data modernization**, and **analytic
 - **AWS (Basics)**: RDS, S3, Lambda, Redshift  
 
 **🔄 Data Engineering & Ingestion**  
-- Hadoop (HDFS, Hive, Spark), Dataflow  
+- Hadoop (HDFS, Hive, PySpark), Dataflow  
 - Plantweb Optics, DLL  
 
 **💻 Programming Languages**  
