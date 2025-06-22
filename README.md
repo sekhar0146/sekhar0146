@@ -49,4 +49,4 @@ I'm passionate about **cloud migration**, **data modernization**, and **analytic
 ### 🤝 Let’s Collaborate  
 I'm open to contributing to **Data Engineering** and **GenAI** projects and am interested in **global relocation** opportunities (visa sponsorship welcome).
 
-📫 Reach me at **sekhar.0146@gmail.com**
+📫 Reach me at **sekhar.0146@gmail.com** 
