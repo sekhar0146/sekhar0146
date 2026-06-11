@@ -10,43 +10,23 @@ I'm passionate about **cloud migration**, **data modernization**, and **analytic
 ---
 
 ### 💼 Current Role  
-**Data/AI Engineer** at **LLOYDS Technology Centre** (Tech Centre of Lloyds Banking Group)
+**Data Engineering Lead** at **LLOYDS Technology Centre** (Tech Centre of Lloyds Banking Group)
 
 ---
 
-### 🧰 Technical Expertise  
+## 🔹 Expertise
 
-**☁️ Cloud Platforms**  
-- **Google Cloud**: BigQuery, Cloud Storage, Pub/Sub, Cloud Functions, Dataflow  
-- **AWS (Basics)**: RDS, S3, Lambda, Redshift  
-
-**🔄 Data Engineering & Ingestion**  
-- Hadoop (HDFS, Hive, PySpark), Dataflow  
-- Plantweb Optics, DLL  
-
-**💻 Programming Languages**  
-- Python, Scala, Lua Script, Java (basic)  
-
-**🗄️ Databases**  
-- Teradata, Oracle, PostgreSQL, Mainframe DB2, IMS DB  
-
-**🔧 Tools & Infrastructure**  
-- Terraform (IaC), GitLab EE (CI/CD)  
-- Airflow, Benchling, Jira, Confluence  
-
-**🧠 Machine Learning & AI**  
-- Classification & Regression Models  
-- Generative AI (GenAI)  
-
-**💾 Mainframe Technologies**  
-- COBOL, JCL, IMS DC, PL/I, VSAM, File-Aid, Endevor, MQ, ISPF  
-
-**📈 Methodologies**  
-- Agile, Waterfall
+- ☁️ **Cloud:** Google Cloud (BigQuery, Dataflow, Pub/Sub, Cloud Run, Cloud Functions, Cloud Storage), AWS Basics
+- 📊 **Data & Analytics Engineering:** BigQuery, DBT, PySpark, Hadoop, ETL/ELT, Data Modeling
+- 💻 **Programming:** Python, Scala, Lua, Java (Basic)
+- 🗄️ **Databases:** Teradata, Oracle, PostgreSQL, DB2, IMS DB
+- 🔧 **Tools:** Terraform, Airflow, GitLab CI/CD
+- 🧠 **AI & ML:** Machine Learning, Generative AI
+- 💾 **Mainframe:** COBOL, JCL, PL/I, DB2, IMS, VSAM, MQ, OPC scheduler
 
 ---
 
 ### 🤝 Let’s Collaborate  
-I'm open to contributing to **Data Engineering** and **GenAI** projects and am interested in **global relocation** opportunities (visa sponsorship welcome).
+I'm open to contributing to **Data Engineering** projects and am interested in **global relocation** opportunities (visa sponsorship welcome).
 
 📫 Reach me at **sekhar.0146@gmail.com** 
